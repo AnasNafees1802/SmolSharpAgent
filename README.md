@@ -22,6 +22,13 @@ SmolSharpAgent is built on the concept of Hugging Face's SmollAgents but specifi
 - **Resource Management**: Proper handling of disposable resources
 - **Extensive Library Support**: Pre-configured with popular .NET libraries
 
+## Screenshots
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://i.ibb.co/CKL4H7VK/Smolsharpagent-example.png" alt="SmolSharpAgent Example" width="45%" />
+  <img src="https://i.ibb.co/MkQsK6yw/smolsharp-exmple-automation.png" alt="SmolSharpAgent Automation" width="45%" />
+</div>
+
 ## 🛠️ Installation & Setup
 
 1. **Prerequisites**
