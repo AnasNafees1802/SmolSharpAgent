@@ -251,3 +251,5 @@ mono_crash.*
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent 
+
+!appsettings.example.json
